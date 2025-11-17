@@ -21,6 +21,7 @@ Aplikasi sederhana namun *powerful* untuk menggabungkan (merge) beberapa file PD
 ├── gui_gabung.py       # Script untuk mode GUI (Jendela Aplikasi)
 ├── requirements.txt    # Daftar library yang dibutuhkan
 └── README.md           # Dokumentasi ini
+```
 
 ## ⚙️ Instalasi & Persiapan
 
