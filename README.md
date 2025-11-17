@@ -74,7 +74,7 @@ Gunakan `gui_gabung.py` untuk tampilan antarmuka yang user-friendly (mirip aplik
 ```bash
 python gui_gabung.py
 ```
-
+![Alt text]( "GUI Gabung")
 **Langkah-langkah di Aplikasi:**
 
 1.  Klik tombol **"+ Tambah PDF"** untuk memilih file.
