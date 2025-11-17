@@ -3,8 +3,6 @@
 
 Aplikasi sederhana namun *powerful* untuk menggabungkan (merge) beberapa file PDF menjadi satu. Tersedia dalam dua mode: **Command Line Interface (CLI)** untuk penggunaan cepat via terminal, dan **Graphical User Interface (GUI)** untuk pengalaman visual yang lebih mudah.
 
-
-
 ## ✨ Fitur Utama
 
 * **Penggabungan PDF:** Menyatukan banyak file PDF menjadi satu dokumen.
@@ -13,7 +11,6 @@ Aplikasi sederhana namun *powerful* untuk menggabungkan (merge) beberapa file PD
 * **Pengaturan Urutan:** (Mode GUI) Bisa menggeser urutan file naik/turun sebelum digabung.
 * **Portable:** Bisa dikompilasi menjadi file `.exe` (Windows Executable).
 
----
 
 ## 📂 Struktur Proyek
 
