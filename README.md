@@ -37,7 +37,6 @@ Pastikan **Python 3.x** sudah terinstal di komputer Anda.
     pip install -r requirements.txt
     ```
 
------
 
 ## 🚀 Cara Penggunaan
 
