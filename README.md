@@ -130,6 +130,7 @@ Anda dapat mengubah script ini menjadi aplikasi `.exe` agar bisa dijalankan di k
 -----
 
 *Dibuat untuk tujuan pembelajaran dan produktivitas.*
+Berikan Support Anda [Traktir Kopi](http://lynk.id/alima/s/5k0eny0qk69k)
 
 ```
 ```
